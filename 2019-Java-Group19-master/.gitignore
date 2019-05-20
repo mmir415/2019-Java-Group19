@@ -1,0 +1,4 @@
+.idea/
+*.class
+.vscode/launch.json
+res/scores.txt
